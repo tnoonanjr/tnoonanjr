@@ -1,2 +1,2 @@
-I am interested in programming with Python and HTML/CSS. I like to play soccer and chess!
+I am interested in programming with Python, JavaScript, HTML/CSS and more. I like to play soccer and chess!
 
